@@ -1,7 +1,7 @@
 header:
   - titles:
       # @start locale config
-      en      : &EN       Archive
+      en      : &EN       Archive 
       en-GB   : *EN
       en-US   : *EN
       en-CA   : *EN
@@ -48,3 +48,6 @@ header:
       fr-LU   : *FR
       # @end locale config
     url: /about.html
+
+  - title: Why This Website
+    url: \动机.html
