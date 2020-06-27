@@ -23,7 +23,6 @@ titles:
   fr-FR   : *FR
   fr-LU   : *FR
   # @end locale config
-key: page-about
 ---
 
 - ## 姓名：魏弘量
@@ -46,6 +45,6 @@ key: page-about
 
   | WeChat                                                       | QQ                                                           |
   | ------------------------------------------------------------ | ------------------------------------------------------------ |
-  | ![img](file:///G:\QQ数据保存位置（原Document）\1367225607\Image\C2C\2EEEDC3A4DC69E5C3AB79A2B6C3DB712.jpg) | ![img](file:///G:\QQ数据保存位置（原Document）\1367225607\Image\C2C\3347F8C6886E5DD22B3DB5A0A70EDC43.png) |
+  | ![img](https://gitee.com/wei_hong_liang/My_Picture_Bed/raw/master/20200627193749.jpg) | ![img](https://gitee.com/wei_hong_liang/My_Picture_Bed/raw/master/20200627193800.png) |
 
   
